@@ -1,1 +1,9 @@
-spring.application.name=webflux
+spring:
+  application:
+    name: webflux
+logging:
+  level:
+    root: INFO
+llm:
+  gpt:
+    key: ""
