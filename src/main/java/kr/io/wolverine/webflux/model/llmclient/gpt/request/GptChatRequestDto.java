@@ -2,6 +2,7 @@ package kr.io.wolverine.webflux.model.llmclient.gpt.request;
 
 import kr.io.wolverine.webflux.model.llmclient.LlmChatRequestDto;
 import kr.io.wolverine.webflux.model.llmclient.LlmModel;
+import kr.io.wolverine.webflux.model.llmclient.gpt.GptMessageRole;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -6,4 +6,6 @@ logging:
     root: INFO
 llm:
   gpt:
-    key: ""
+    key: "?? ?"
+  gemini:
+    key: "?? ?"

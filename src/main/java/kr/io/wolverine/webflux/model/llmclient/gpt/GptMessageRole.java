@@ -1,4 +1,4 @@
-package kr.io.wolverine.webflux.model.llmclient.gpt.request;
+package kr.io.wolverine.webflux.model.llmclient.gpt;
 
 import com.fasterxml.jackson.annotation.JsonValue;
 
